@@ -1,0 +1,1 @@
+const myArray: any[] = [true, 5, "David"];
