@@ -1,5 +1,5 @@
 ## TypeScript
 • Here are some basics of TypeScript
 
-## 🔐 License   
+## 🔐 License
 [MIT License](LICENSE)
