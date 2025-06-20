@@ -1,5 +1,4 @@
-## TypeScript
-• Here are some basics of TypeScript
+## TypeScript – Fundamentals
 
 ## 🔐 License
 [MIT License](LICENSE) 
