@@ -1,4 +1,4 @@
 ## TypeScript – Fundamentals
 
-## 🔐 License
+## 🔐 License 
 [MIT License](LICENSE) 
