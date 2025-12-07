@@ -77,8 +77,8 @@ This repository contains hands-on examples and practical exercises progressing f
 2. Navigate to a specific topic: <br>
    • `cd 01_DataTypes` or `cd 16_OOP` <br>
 3. Open HTML files in your browser: <br>
-   • Open index.html in a live server or browser <br>
-   • Or use Live Server extension in VS Code <br>
+   • open index.html in a live server or browser <br>
+   • or use Live Server extension in VS Code <br>
 4. Compile TypeScript files: <br>
    • `tsc script.ts` to compile individual files <br>
    • or use `tsc --watch` for automatic compilation <br>
