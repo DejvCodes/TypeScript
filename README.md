@@ -1,5 +1,5 @@
 ## TypeScript - Complete Learning Path
-A comprehensive TypeScript learning repository covering fundamentals, type system, functions, and object-oriented programming. <br>
+A comprehensive TypeScript learning repository covering fundamentals, type system, functions, and object-oriented programming. 
 This repository contains hands-on examples and practical exercises progressing from basic types to advanced OOP concepts and modern JavaScript/TypeScript features.
 
 ## 🚀 Features
